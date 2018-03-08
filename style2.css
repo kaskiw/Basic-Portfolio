@@ -40,8 +40,8 @@ h3 {
 
 .icon_box {
     background-color: #4f495f7a;
-    height: 95px;
-    width: 95px;
+    height: 100px;
+    width: 100px;
     margin: 10px;
     padding: 15px;
     border-style: double;
@@ -94,7 +94,7 @@ h3 {
     top: 94%;
 }
 
-/*// Element to animate //*/
+/*// Element to animate //*/    
 
 .mario {
 	position: absolute;
